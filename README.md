@@ -6,7 +6,7 @@
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lobortis est sit amet malesuada. Sed facilisis consectetur molestie. Vestibulum metus sapien, aliquet ac finibus quis, finibus vitae enim. Donec in lorem ut turpis varius commodo ut eu purus. Vivamus nec ligula purus. Nullam aliquet fermentum sem, nec iaculis neque accumsan ut. Sed elit turpis, pulvinar vitae dictum ut, tristique in metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi in dui sem. Suspendisse auctor velit nec massa semper, a mattis massa laoreet. Donec ut nibh fringilla, aliquam ex nec, suscipit nulla. Nullam id accumsan est, sit amet rutrum metus.
 
-## :t Getting Started
+## 🚀 Getting Started
 
 > [!IMPORTANT]
 > Requirements:
@@ -41,7 +41,7 @@ dependencies {
 }
 ```
 
-## Building
+## 📦 Building
 The build management tool used for this project is [Apache Maven](https://maven.apache.org/). Executing the following command will install the compiled artifact into your local repository if no critical issues occur during any of the lifecycle phases.
 ```
 mvn clean install

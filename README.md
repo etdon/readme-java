@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lobo
 
 > [!IMPORTANT]
 > Requirements:
-> - Lorem ipsum
+> - Java 21 (LTS)
 
 🪶 Maven:
 ```xml
@@ -42,7 +42,7 @@ dependencies {
 ```
 
 ## Building
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent at cursus libero. Aenean a magna vitae tellus maximus placerat sit. 
+The build management tool used for this project is [Apache Maven](https://maven.apache.org/). Executing the following command will install the compiled artifact into your local repository if no critical issues occur during any of the lifecycle phases.
 ```
 mvn clean install
 ```

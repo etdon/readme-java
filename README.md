@@ -76,16 +76,23 @@ dependencies {
 </details>
 
 ## 📦 Building
-The build management tool used for this project is [Apache Maven](https://maven.apache.org/). Executing the following command will install the compiled artifact into your local repository if no critical issues occur during any of the lifecycle phases.
+The build management tool used for this project is [Apache Maven][build_tool]. Executing the following command will install the compiled artifact into your local repository if no critical issues occur during any of the lifecycle phases.
 ```
 mvn clean install
 ```
 
+## 🫴 Contributing
+The contribution guidelines are a part of the `shared-guidelines` repository and can be found here: [Contributing][contributing]
+
 ## 📄 License
-The `lorem-ipsum` project is licensed under the [Lorem ipsum License](https://choosealicense.com/licenses/).
+The `lorem-ipsum` project is licensed under the [Lorem ipsum License][license].
 ```
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lobortis est sit amet malesuada.
 Sed facilisis consectetur molestie. Vestibulum metus sapien, aliquet ac finibus quis, finibus vitae enim.
 Donec in lorem ut turpis varius commodo ut eu purus. Vivamus nec ligula purus.
 Nullam aliquet fermentum sem, nec iaculis neque accumsan ut.
 ```
+
+[build_tool]: https://maven.apache.org/
+[contributing]: https://github.com/etdon/shared-guidelines/blob/main/CONTRIBUTING.md
+[license]: https://choosealicense.com/licenses/

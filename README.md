@@ -80,3 +80,12 @@ The build management tool used for this project is [Apache Maven](https://maven.
 ```
 mvn clean install
 ```
+
+## 📄 License
+The `lorem-ipsum` project is licensed under the [Lorem ipsum License](https://choosealicense.com/licenses/).
+```
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lobortis est sit amet malesuada.
+Sed facilisis consectetur molestie. Vestibulum metus sapien, aliquet ac finibus quis, finibus vitae enim.
+Donec in lorem ut turpis varius commodo ut eu purus. Vivamus nec ligula purus.
+Nullam aliquet fermentum sem, nec iaculis neque accumsan ut.
+```

@@ -41,6 +41,40 @@ dependencies {
 }
 ```
 
+<details>
+  <summary>Latest snapshot</summary>
+
+🪶 Maven:
+```xml
+<repository>
+    <id>lorem-ipsum</id>
+    <url>https://lorem.ipsum/</url>
+</repository>
+```
+
+```xml
+<dependency>
+    <groupId>ipsum.lorem</groupId>
+    <artifactId>lorem-ipsum</artifactId>
+    <version>1.0.1-SNAPSHOT</version>
+</dependency>
+```
+
+🐘 Gradle:
+```groovy
+maven {         
+    url = uri("https://lorem.ipsum/")
+}
+```
+
+```groovy
+dependencies {
+    implementation 'ipsum.lorem:lorem-ipsum:1.0.1-SNAPSHOT'
+}
+```
+
+</details>
+
 ## 📦 Building
 The build management tool used for this project is [Apache Maven](https://maven.apache.org/). Executing the following command will install the compiled artifact into your local repository if no critical issues occur during any of the lifecycle phases.
 ```

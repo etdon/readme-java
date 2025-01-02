@@ -82,7 +82,7 @@ mvn clean install
 ```
 
 ## 🫴 Contributing
-The contribution guidelines are a part of the `shared-guidelines` repository and can be found here: [Contributing][contributing]
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lobortis est sit amet malesuada. Sed facilisis consectetur molestie. Vestibulum metus sapien, aliquet ac finibus quis, finibus vitae enim. Donec in lorem ut turpis varius commodo ut eu purus. Vivamus nec ligula purus. Nullam aliquet fermentum sem, nec iaculis neque accumsan ut. Sed elit turpis, pulvinar vitae dictum ut, tristique in metus.
 
 ## 📄 License
 The `lorem-ipsum` project is licensed under the [Lorem ipsum License][license].
@@ -94,5 +94,4 @@ Nullam aliquet fermentum sem, nec iaculis neque accumsan ut.
 ```
 
 [build_tool]: https://maven.apache.org/
-[contributing]: https://github.com/etdon/shared-guidelines/blob/main/CONTRIBUTING.md
 [license]: https://choosealicense.com/licenses/

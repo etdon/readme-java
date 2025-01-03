@@ -2,6 +2,17 @@
     <img src="https://i.imgur.com/aByxoG0.png" width=830 height=207>    
 </p>
 
+<div align="center">
+    
+![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=github&label=Language&color=%23b07219)
+![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&label=Language&color=%237F52FF)
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-white?style=for-the-badge&logo=apache-maven&label=Building&color=%23C71A36)
+![Gradle](https://img.shields.io/badge/Gradle-white?style=for-the-badge&logo=gradle&label=Building&color=%2302303A)
+![Universal](https://img.shields.io/badge/Universal-white?style=for-the-badge&logo=github&label=Platform&color=%230173b3)
+![MIT](https://img.shields.io/badge/MIT-white?style=for-the-badge&logo=github&label=License&color=%233fb911)
+
+</div>
+
 ## 🔰 Introduction
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent tincidunt lobortis est sit amet malesuada. Sed facilisis consectetur molestie. Vestibulum metus sapien, aliquet ac finibus quis, finibus vitae enim. Donec in lorem ut turpis varius commodo ut eu purus. Vivamus nec ligula purus. Nullam aliquet fermentum sem, nec iaculis neque accumsan ut. Sed elit turpis, pulvinar vitae dictum ut, tristique in metus. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Morbi in dui sem. Suspendisse auctor velit nec massa semper, a mattis massa laoreet. Donec ut nibh fringilla, aliquam ex nec, suscipit nulla. Nullam id accumsan est, sit amet rutrum metus.

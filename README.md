@@ -3,12 +3,12 @@
 </p>
 
 <div align="center">
-    
+
+![Universal](https://img.shields.io/badge/Universal-white?style=for-the-badge&logo=github&label=Platform&color=%230173b3)
 ![Java](https://img.shields.io/badge/Java-white?style=for-the-badge&logo=github&label=Language&color=%23b07219)
 ![Kotlin](https://img.shields.io/badge/Kotlin-white?style=for-the-badge&logo=kotlin&label=Language&color=%237F52FF)
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-white?style=for-the-badge&logo=apache-maven&label=Building&color=%23C71A36)
 ![Gradle](https://img.shields.io/badge/Gradle-white?style=for-the-badge&logo=gradle&label=Building&color=%2302303A)
-![Universal](https://img.shields.io/badge/Universal-white?style=for-the-badge&logo=github&label=Platform&color=%230173b3)
 ![MIT](https://img.shields.io/badge/MIT-white?style=for-the-badge&logo=github&label=License&color=%233fb911)
 
 </div>
